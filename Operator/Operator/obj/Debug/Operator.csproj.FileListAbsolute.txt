@@ -1,0 +1,6 @@
+E:\Csharp\Operator\Operator\bin\Debug\Operator.exe.config
+E:\Csharp\Operator\Operator\bin\Debug\Operator.exe
+E:\Csharp\Operator\Operator\bin\Debug\Operator.pdb
+E:\Csharp\Operator\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
+E:\Csharp\Operator\Operator\obj\Debug\Operator.exe
+E:\Csharp\Operator\Operator\obj\Debug\Operator.pdb

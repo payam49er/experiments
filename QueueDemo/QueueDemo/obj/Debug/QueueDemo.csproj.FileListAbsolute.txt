@@ -1,0 +1,6 @@
+E:\Csharp\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe.config
+E:\Csharp\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe
+E:\Csharp\QueueDemo\QueueDemo\bin\Debug\QueueDemo.pdb
+E:\Csharp\QueueDemo\QueueDemo\obj\Debug\QueueDemo.csprojResolveAssemblyReference.cache
+E:\Csharp\QueueDemo\QueueDemo\obj\Debug\QueueDemo.exe
+E:\Csharp\QueueDemo\QueueDemo\obj\Debug\QueueDemo.pdb

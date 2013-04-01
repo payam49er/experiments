@@ -1,0 +1,6 @@
+E:\Csharp\Nonrepeated\Nonrepeated\bin\Debug\Nonrepeated.exe.config
+E:\Csharp\Nonrepeated\Nonrepeated\bin\Debug\Nonrepeated.exe
+E:\Csharp\Nonrepeated\Nonrepeated\bin\Debug\Nonrepeated.pdb
+E:\Csharp\Nonrepeated\Nonrepeated\obj\Debug\Nonrepeated.csprojResolveAssemblyReference.cache
+E:\Csharp\Nonrepeated\Nonrepeated\obj\Debug\Nonrepeated.exe
+E:\Csharp\Nonrepeated\Nonrepeated\obj\Debug\Nonrepeated.pdb

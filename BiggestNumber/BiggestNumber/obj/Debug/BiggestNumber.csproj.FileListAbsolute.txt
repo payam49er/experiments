@@ -1,0 +1,6 @@
+E:\Csharp\BiggestNumber\BiggestNumber\bin\Debug\BiggestNumber.exe.config
+E:\Csharp\BiggestNumber\BiggestNumber\bin\Debug\BiggestNumber.exe
+E:\Csharp\BiggestNumber\BiggestNumber\bin\Debug\BiggestNumber.pdb
+E:\Csharp\BiggestNumber\BiggestNumber\obj\Debug\BiggestNumber.csprojResolveAssemblyReference.cache
+E:\Csharp\BiggestNumber\BiggestNumber\obj\Debug\BiggestNumber.exe
+E:\Csharp\BiggestNumber\BiggestNumber\obj\Debug\BiggestNumber.pdb

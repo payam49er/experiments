@@ -1,0 +1,6 @@
+E:\Csharp\StringSolution\StringSolution\bin\Debug\StringSolution.exe.config
+E:\Csharp\StringSolution\StringSolution\bin\Debug\StringSolution.exe
+E:\Csharp\StringSolution\StringSolution\bin\Debug\StringSolution.pdb
+E:\Csharp\StringSolution\StringSolution\obj\Debug\StringSolution.csprojResolveAssemblyReference.cache
+E:\Csharp\StringSolution\StringSolution\obj\Debug\StringSolution.exe
+E:\Csharp\StringSolution\StringSolution\obj\Debug\StringSolution.pdb

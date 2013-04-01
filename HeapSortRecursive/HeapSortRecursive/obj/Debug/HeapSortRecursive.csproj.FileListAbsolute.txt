@@ -1,0 +1,6 @@
+E:\Csharp\HeapSortRecursive\HeapSortRecursive\bin\Debug\HeapSortRecursive.exe.config
+E:\Csharp\HeapSortRecursive\HeapSortRecursive\bin\Debug\HeapSortRecursive.exe
+E:\Csharp\HeapSortRecursive\HeapSortRecursive\bin\Debug\HeapSortRecursive.pdb
+E:\Csharp\HeapSortRecursive\HeapSortRecursive\obj\Debug\HeapSortRecursive.csprojResolveAssemblyReference.cache
+E:\Csharp\HeapSortRecursive\HeapSortRecursive\obj\Debug\HeapSortRecursive.exe
+E:\Csharp\HeapSortRecursive\HeapSortRecursive\obj\Debug\HeapSortRecursive.pdb

@@ -1,0 +1,6 @@
+E:\Csharp\StackX\StackX\bin\Debug\StackX.exe.config
+E:\Csharp\StackX\StackX\bin\Debug\StackX.exe
+E:\Csharp\StackX\StackX\bin\Debug\StackX.pdb
+E:\Csharp\StackX\StackX\obj\Debug\StackX.csprojResolveAssemblyReference.cache
+E:\Csharp\StackX\StackX\obj\Debug\StackX.exe
+E:\Csharp\StackX\StackX\obj\Debug\StackX.pdb

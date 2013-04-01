@@ -1,0 +1,6 @@
+E:\Csharp\InterFaceDemo\InterFaceDemo\bin\Debug\InterFaceDemo.exe.config
+E:\Csharp\InterFaceDemo\InterFaceDemo\bin\Debug\InterFaceDemo.exe
+E:\Csharp\InterFaceDemo\InterFaceDemo\bin\Debug\InterFaceDemo.pdb
+E:\Csharp\InterFaceDemo\InterFaceDemo\obj\Debug\InterFaceDemo.csprojResolveAssemblyReference.cache
+E:\Csharp\InterFaceDemo\InterFaceDemo\obj\Debug\InterFaceDemo.exe
+E:\Csharp\InterFaceDemo\InterFaceDemo\obj\Debug\InterFaceDemo.pdb

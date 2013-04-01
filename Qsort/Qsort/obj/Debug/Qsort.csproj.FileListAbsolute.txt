@@ -1,0 +1,6 @@
+E:\Csharp\Qsort\Qsort\bin\Debug\Qsort.exe.config
+E:\Csharp\Qsort\Qsort\bin\Debug\Qsort.exe
+E:\Csharp\Qsort\Qsort\bin\Debug\Qsort.pdb
+E:\Csharp\Qsort\Qsort\obj\Debug\Qsort.csprojResolveAssemblyReference.cache
+E:\Csharp\Qsort\Qsort\obj\Debug\Qsort.exe
+E:\Csharp\Qsort\Qsort\obj\Debug\Qsort.pdb

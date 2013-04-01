@@ -1,0 +1,6 @@
+E:\Csharp\RaiseNumber\RaiseNumber\bin\Debug\RaiseNumber.exe.config
+E:\Csharp\RaiseNumber\RaiseNumber\bin\Debug\RaiseNumber.exe
+E:\Csharp\RaiseNumber\RaiseNumber\bin\Debug\RaiseNumber.pdb
+E:\Csharp\RaiseNumber\RaiseNumber\obj\Debug\RaiseNumber.csprojResolveAssemblyReference.cache
+E:\Csharp\RaiseNumber\RaiseNumber\obj\Debug\RaiseNumber.exe
+E:\Csharp\RaiseNumber\RaiseNumber\obj\Debug\RaiseNumber.pdb

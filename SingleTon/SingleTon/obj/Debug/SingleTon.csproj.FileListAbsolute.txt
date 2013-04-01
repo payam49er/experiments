@@ -1,0 +1,1 @@
+E:\Csharp\SingleTon\SingleTon\bin\Debug\SingleTon.exe.config

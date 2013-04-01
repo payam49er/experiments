@@ -1,0 +1,6 @@
+E:\Csharp\swap\swap\bin\Debug\swap.exe.config
+E:\Csharp\swap\swap\bin\Debug\swap.exe
+E:\Csharp\swap\swap\bin\Debug\swap.pdb
+E:\Csharp\swap\swap\obj\Debug\swap.csprojResolveAssemblyReference.cache
+E:\Csharp\swap\swap\obj\Debug\swap.exe
+E:\Csharp\swap\swap\obj\Debug\swap.pdb

@@ -1,0 +1,5 @@
+E:\Csharp\Maclaurin\Maclaurin\bin\Debug\Maclaurin.exe.config
+E:\Csharp\Maclaurin\Maclaurin\bin\Debug\Maclaurin.exe
+E:\Csharp\Maclaurin\Maclaurin\bin\Debug\Maclaurin.pdb
+E:\Csharp\Maclaurin\Maclaurin\obj\Debug\Maclaurin.exe
+E:\Csharp\Maclaurin\Maclaurin\obj\Debug\Maclaurin.pdb

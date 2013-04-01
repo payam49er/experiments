@@ -1,0 +1,11 @@
+Dear {name},
+
+Thank you for ordering {product}!
+
+We will send a confirmation email to '{email|filter:lowercase}' once your order is ready.
+
+We expect your order to be processed by {date|format:date}.
+
+Thank You,
+XYZ Widget Co.
+

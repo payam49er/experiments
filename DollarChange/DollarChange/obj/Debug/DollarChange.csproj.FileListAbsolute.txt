@@ -1,0 +1,6 @@
+E:\Csharp\DollarChange\DollarChange\bin\Debug\DollarChange.exe.config
+E:\Csharp\DollarChange\DollarChange\bin\Debug\DollarChange.exe
+E:\Csharp\DollarChange\DollarChange\bin\Debug\DollarChange.pdb
+E:\Csharp\DollarChange\DollarChange\obj\Debug\DollarChange.csprojResolveAssemblyReference.cache
+E:\Csharp\DollarChange\DollarChange\obj\Debug\DollarChange.exe
+E:\Csharp\DollarChange\DollarChange\obj\Debug\DollarChange.pdb

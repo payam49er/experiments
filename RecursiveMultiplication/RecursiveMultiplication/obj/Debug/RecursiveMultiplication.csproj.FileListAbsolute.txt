@@ -1,0 +1,6 @@
+E:\Csharp\RecursiveMultiplication\RecursiveMultiplication\bin\Debug\RecursiveMultiplication.exe.config
+E:\Csharp\RecursiveMultiplication\RecursiveMultiplication\bin\Debug\RecursiveMultiplication.exe
+E:\Csharp\RecursiveMultiplication\RecursiveMultiplication\bin\Debug\RecursiveMultiplication.pdb
+E:\Csharp\RecursiveMultiplication\RecursiveMultiplication\obj\Debug\RecursiveMultiplication.csprojResolveAssemblyReference.cache
+E:\Csharp\RecursiveMultiplication\RecursiveMultiplication\obj\Debug\RecursiveMultiplication.exe
+E:\Csharp\RecursiveMultiplication\RecursiveMultiplication\obj\Debug\RecursiveMultiplication.pdb

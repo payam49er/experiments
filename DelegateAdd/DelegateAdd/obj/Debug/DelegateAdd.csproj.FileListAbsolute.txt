@@ -1,0 +1,6 @@
+E:\Csharp\DelegateAdd\DelegateAdd\bin\Debug\DelegateAdd.exe.config
+E:\Csharp\DelegateAdd\DelegateAdd\bin\Debug\DelegateAdd.exe
+E:\Csharp\DelegateAdd\DelegateAdd\bin\Debug\DelegateAdd.pdb
+E:\Csharp\DelegateAdd\DelegateAdd\obj\Debug\DelegateAdd.exe
+E:\Csharp\DelegateAdd\DelegateAdd\obj\Debug\DelegateAdd.pdb
+E:\Csharp\DelegateAdd\DelegateAdd\obj\Debug\DelegateAdd.csprojResolveAssemblyReference.cache

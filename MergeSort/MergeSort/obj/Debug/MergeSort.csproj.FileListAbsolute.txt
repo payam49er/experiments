@@ -1,0 +1,6 @@
+E:\Csharp\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+E:\Csharp\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+E:\Csharp\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+E:\Csharp\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+E:\Csharp\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+E:\Csharp\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

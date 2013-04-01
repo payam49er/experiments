@@ -1,0 +1,6 @@
+E:\Csharp\ReverseWord\ReverseWord\bin\Debug\ReverseWord.exe.config
+E:\Csharp\ReverseWord\ReverseWord\bin\Debug\ReverseWord.exe
+E:\Csharp\ReverseWord\ReverseWord\bin\Debug\ReverseWord.pdb
+E:\Csharp\ReverseWord\ReverseWord\obj\Debug\ReverseWord.csprojResolveAssemblyReference.cache
+E:\Csharp\ReverseWord\ReverseWord\obj\Debug\ReverseWord.exe
+E:\Csharp\ReverseWord\ReverseWord\obj\Debug\ReverseWord.pdb

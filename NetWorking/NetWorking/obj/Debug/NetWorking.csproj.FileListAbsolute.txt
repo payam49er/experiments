@@ -1,0 +1,6 @@
+E:\Csharp\NetWorking\NetWorking\bin\Debug\NetWorking.exe.config
+E:\Csharp\NetWorking\NetWorking\bin\Debug\NetWorking.exe
+E:\Csharp\NetWorking\NetWorking\bin\Debug\NetWorking.pdb
+E:\Csharp\NetWorking\NetWorking\obj\Debug\NetWorking.csprojResolveAssemblyReference.cache
+E:\Csharp\NetWorking\NetWorking\obj\Debug\NetWorking.exe
+E:\Csharp\NetWorking\NetWorking\obj\Debug\NetWorking.pdb

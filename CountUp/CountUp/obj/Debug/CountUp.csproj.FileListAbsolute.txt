@@ -1,0 +1,6 @@
+E:\Csharp\CountUp\CountUp\bin\Debug\CountUp.exe.config
+E:\Csharp\CountUp\CountUp\bin\Debug\CountUp.exe
+E:\Csharp\CountUp\CountUp\bin\Debug\CountUp.pdb
+E:\Csharp\CountUp\CountUp\obj\Debug\CountUp.csprojResolveAssemblyReference.cache
+E:\Csharp\CountUp\CountUp\obj\Debug\CountUp.exe
+E:\Csharp\CountUp\CountUp\obj\Debug\CountUp.pdb

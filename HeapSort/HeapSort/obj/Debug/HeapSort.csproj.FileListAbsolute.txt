@@ -1,0 +1,6 @@
+E:\Csharp\HeapSort\HeapSort\bin\Debug\HeapSort.exe.config
+E:\Csharp\HeapSort\HeapSort\bin\Debug\HeapSort.exe
+E:\Csharp\HeapSort\HeapSort\bin\Debug\HeapSort.pdb
+E:\Csharp\HeapSort\HeapSort\obj\Debug\HeapSort.csprojResolveAssemblyReference.cache
+E:\Csharp\HeapSort\HeapSort\obj\Debug\HeapSort.exe
+E:\Csharp\HeapSort\HeapSort\obj\Debug\HeapSort.pdb

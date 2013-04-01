@@ -1,0 +1,6 @@
+E:\Csharp\PrintNextPrime\PrintNextPrime\bin\Debug\PrintNextPrime.exe.config
+E:\Csharp\PrintNextPrime\PrintNextPrime\bin\Debug\PrintNextPrime.exe
+E:\Csharp\PrintNextPrime\PrintNextPrime\bin\Debug\PrintNextPrime.pdb
+E:\Csharp\PrintNextPrime\PrintNextPrime\obj\Debug\PrintNextPrime.csprojResolveAssemblyReference.cache
+E:\Csharp\PrintNextPrime\PrintNextPrime\obj\Debug\PrintNextPrime.exe
+E:\Csharp\PrintNextPrime\PrintNextPrime\obj\Debug\PrintNextPrime.pdb

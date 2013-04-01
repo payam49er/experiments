@@ -1,0 +1,6 @@
+E:\Csharp\OrderAlphabet\OrderAlphabet\bin\Debug\OrderAlphabet.exe.config
+E:\Csharp\OrderAlphabet\OrderAlphabet\bin\Debug\OrderAlphabet.exe
+E:\Csharp\OrderAlphabet\OrderAlphabet\bin\Debug\OrderAlphabet.pdb
+E:\Csharp\OrderAlphabet\OrderAlphabet\obj\Debug\OrderAlphabet.exe
+E:\Csharp\OrderAlphabet\OrderAlphabet\obj\Debug\OrderAlphabet.pdb
+E:\Csharp\OrderAlphabet\OrderAlphabet\obj\Debug\OrderAlphabet.csprojResolveAssemblyReference.cache

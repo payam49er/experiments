@@ -1,0 +1,6 @@
+E:\Csharp\CantinaTask\CantinaTask\bin\Debug\CantinaTask.exe.config
+E:\Csharp\CantinaTask\CantinaTask\bin\Debug\CantinaTask.exe
+E:\Csharp\CantinaTask\CantinaTask\bin\Debug\CantinaTask.pdb
+E:\Csharp\CantinaTask\CantinaTask\obj\Debug\CantinaTask.csprojResolveAssemblyReference.cache
+E:\Csharp\CantinaTask\CantinaTask\obj\Debug\CantinaTask.exe
+E:\Csharp\CantinaTask\CantinaTask\obj\Debug\CantinaTask.pdb

@@ -1,0 +1,6 @@
+E:\Csharp\Coin\Coin\bin\Debug\Coin.exe.config
+E:\Csharp\Coin\Coin\bin\Debug\Coin.exe
+E:\Csharp\Coin\Coin\bin\Debug\Coin.pdb
+E:\Csharp\Coin\Coin\obj\Debug\Coin.csprojResolveAssemblyReference.cache
+E:\Csharp\Coin\Coin\obj\Debug\Coin.exe
+E:\Csharp\Coin\Coin\obj\Debug\Coin.pdb

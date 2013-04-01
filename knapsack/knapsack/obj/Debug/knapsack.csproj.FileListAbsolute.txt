@@ -1,0 +1,6 @@
+E:\Csharp\knapsack\knapsack\bin\Debug\knapsack.exe.config
+E:\Csharp\knapsack\knapsack\bin\Debug\knapsack.exe
+E:\Csharp\knapsack\knapsack\bin\Debug\knapsack.pdb
+E:\Csharp\knapsack\knapsack\obj\Debug\knapsack.csprojResolveAssemblyReference.cache
+E:\Csharp\knapsack\knapsack\obj\Debug\knapsack.exe
+E:\Csharp\knapsack\knapsack\obj\Debug\knapsack.pdb

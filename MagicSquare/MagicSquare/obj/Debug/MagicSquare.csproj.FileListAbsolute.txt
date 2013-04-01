@@ -1,0 +1,6 @@
+E:\Csharp\MagicSquare\MagicSquare\bin\Debug\MagicSquare.exe.config
+E:\Csharp\MagicSquare\MagicSquare\bin\Debug\MagicSquare.exe
+E:\Csharp\MagicSquare\MagicSquare\bin\Debug\MagicSquare.pdb
+E:\Csharp\MagicSquare\MagicSquare\obj\Debug\MagicSquare.csprojResolveAssemblyReference.cache
+E:\Csharp\MagicSquare\MagicSquare\obj\Debug\MagicSquare.exe
+E:\Csharp\MagicSquare\MagicSquare\obj\Debug\MagicSquare.pdb

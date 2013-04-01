@@ -1,0 +1,5 @@
+E:\Csharp\Research\Research\bin\Debug\Research.exe.config
+E:\Csharp\Research\Research\bin\Debug\Research.exe
+E:\Csharp\Research\Research\bin\Debug\Research.pdb
+E:\Csharp\Research\Research\obj\Debug\Research.exe
+E:\Csharp\Research\Research\obj\Debug\Research.pdb

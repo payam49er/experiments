@@ -1,0 +1,6 @@
+E:\Csharp\CompareToMax\CompareToMax\bin\Debug\CompareToMax.exe.config
+E:\Csharp\CompareToMax\CompareToMax\bin\Debug\CompareToMax.exe
+E:\Csharp\CompareToMax\CompareToMax\bin\Debug\CompareToMax.pdb
+E:\Csharp\CompareToMax\CompareToMax\obj\Debug\CompareToMax.csprojResolveAssemblyReference.cache
+E:\Csharp\CompareToMax\CompareToMax\obj\Debug\CompareToMax.exe
+E:\Csharp\CompareToMax\CompareToMax\obj\Debug\CompareToMax.pdb

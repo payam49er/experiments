@@ -1,0 +1,6 @@
+E:\Csharp\bucketSort\bucketSort\bin\Debug\bucketSort.exe.config
+E:\Csharp\bucketSort\bucketSort\bin\Debug\bucketSort.exe
+E:\Csharp\bucketSort\bucketSort\bin\Debug\bucketSort.pdb
+E:\Csharp\bucketSort\bucketSort\obj\Debug\bucketSort.csprojResolveAssemblyReference.cache
+E:\Csharp\bucketSort\bucketSort\obj\Debug\bucketSort.exe
+E:\Csharp\bucketSort\bucketSort\obj\Debug\bucketSort.pdb

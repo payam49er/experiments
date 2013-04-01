@@ -1,0 +1,6 @@
+E:\Csharp\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe.config
+E:\Csharp\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+E:\Csharp\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
+E:\Csharp\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csprojResolveAssemblyReference.cache
+E:\Csharp\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+E:\Csharp\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb

@@ -1,0 +1,6 @@
+E:\Csharp\PriorityQue\PriorityQue\bin\Debug\PriorityQue.exe.config
+E:\Csharp\PriorityQue\PriorityQue\bin\Debug\PriorityQue.exe
+E:\Csharp\PriorityQue\PriorityQue\bin\Debug\PriorityQue.pdb
+E:\Csharp\PriorityQue\PriorityQue\obj\Debug\PriorityQue.csprojResolveAssemblyReference.cache
+E:\Csharp\PriorityQue\PriorityQue\obj\Debug\PriorityQue.exe
+E:\Csharp\PriorityQue\PriorityQue\obj\Debug\PriorityQue.pdb

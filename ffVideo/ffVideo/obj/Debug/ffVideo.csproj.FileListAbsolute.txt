@@ -1,0 +1,6 @@
+E:\Csharp\ffVideo\ffVideo\bin\Debug\ffVideo.exe.config
+E:\Csharp\ffVideo\ffVideo\bin\Debug\ffVideo.exe
+E:\Csharp\ffVideo\ffVideo\bin\Debug\ffVideo.pdb
+E:\Csharp\ffVideo\ffVideo\obj\Debug\ffVideo.csprojResolveAssemblyReference.cache
+E:\Csharp\ffVideo\ffVideo\obj\Debug\ffVideo.exe
+E:\Csharp\ffVideo\ffVideo\obj\Debug\ffVideo.pdb

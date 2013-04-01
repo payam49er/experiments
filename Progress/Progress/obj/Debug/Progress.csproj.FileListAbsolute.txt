@@ -1,0 +1,6 @@
+E:\Csharp\Progress\Progress\bin\Debug\Progress.exe.config
+E:\Csharp\Progress\Progress\bin\Debug\Progress.exe
+E:\Csharp\Progress\Progress\bin\Debug\Progress.pdb
+E:\Csharp\Progress\Progress\obj\Debug\Progress.csprojResolveAssemblyReference.cache
+E:\Csharp\Progress\Progress\obj\Debug\Progress.exe
+E:\Csharp\Progress\Progress\obj\Debug\Progress.pdb

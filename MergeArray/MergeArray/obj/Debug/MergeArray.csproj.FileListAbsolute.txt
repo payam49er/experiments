@@ -1,0 +1,6 @@
+E:\Csharp\MergeArray\MergeArray\bin\Debug\MergeArray.exe.config
+E:\Csharp\MergeArray\MergeArray\bin\Debug\MergeArray.exe
+E:\Csharp\MergeArray\MergeArray\bin\Debug\MergeArray.pdb
+E:\Csharp\MergeArray\MergeArray\obj\Debug\MergeArray.csprojResolveAssemblyReference.cache
+E:\Csharp\MergeArray\MergeArray\obj\Debug\MergeArray.exe
+E:\Csharp\MergeArray\MergeArray\obj\Debug\MergeArray.pdb
